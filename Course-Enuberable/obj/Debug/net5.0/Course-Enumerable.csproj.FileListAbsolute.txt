@@ -1,0 +1,16 @@
+C:\Projetos\Course-Enuberable\Course-Enuberable\bin\Debug\net5.0\Course-Enumerable.exe
+C:\Projetos\Course-Enuberable\Course-Enuberable\bin\Debug\net5.0\Course-Enumerable.deps.json
+C:\Projetos\Course-Enuberable\Course-Enuberable\bin\Debug\net5.0\Course-Enumerable.runtimeconfig.json
+C:\Projetos\Course-Enuberable\Course-Enuberable\bin\Debug\net5.0\Course-Enumerable.runtimeconfig.dev.json
+C:\Projetos\Course-Enuberable\Course-Enuberable\bin\Debug\net5.0\Course-Enumerable.dll
+C:\Projetos\Course-Enuberable\Course-Enuberable\bin\Debug\net5.0\ref\Course-Enumerable.dll
+C:\Projetos\Course-Enuberable\Course-Enuberable\bin\Debug\net5.0\Course-Enumerable.pdb
+C:\Projetos\Course-Enuberable\Course-Enuberable\obj\Debug\net5.0\Course-Enumerable.csprojAssemblyReference.cache
+C:\Projetos\Course-Enuberable\Course-Enuberable\obj\Debug\net5.0\Course-Enumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Course-Enuberable\Course-Enuberable\obj\Debug\net5.0\Course-Enumerable.AssemblyInfoInputs.cache
+C:\Projetos\Course-Enuberable\Course-Enuberable\obj\Debug\net5.0\Course-Enumerable.AssemblyInfo.cs
+C:\Projetos\Course-Enuberable\Course-Enuberable\obj\Debug\net5.0\Course-Enumerable.csproj.CoreCompileInputs.cache
+C:\Projetos\Course-Enuberable\Course-Enuberable\obj\Debug\net5.0\Course-Enumerable.dll
+C:\Projetos\Course-Enuberable\Course-Enuberable\obj\Debug\net5.0\ref\Course-Enumerable.dll
+C:\Projetos\Course-Enuberable\Course-Enuberable\obj\Debug\net5.0\Course-Enumerable.pdb
+C:\Projetos\Course-Enuberable\Course-Enuberable\obj\Debug\net5.0\Course-Enumerable.genruntimeconfig.cache
